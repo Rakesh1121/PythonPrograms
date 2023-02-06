@@ -1,0 +1,25 @@
+Basic Knowledge of the Python
+Pip, modules, etc
+Variable, DataType
+Input and Output
+String
+Conditional
+Loops: for and while loop
+List
+Tuple
+Dictionaries
+Set
+Functions
+
+OOps
+classes and object 
+other part of the OOps
+
+Advance Python Topic
+Exceptional handling
+MultiThreding
+
+Basic python libaries
+pandas
+numpy
+other libaries
