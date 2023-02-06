@@ -1,0 +1,28 @@
+Python Notes:
+
+Python is interpeter, high level, object oriented progarmming language.
+interpeter means it run one statement at a time or a it run line by line.
+
+Uses of Python: 
+Major use of the Python in 
+1. Web development (backend Framework: Django and Flask) Hence, python is sever side language also.
+2. Artificial Intelligence, Machine learnig, Deep learnig
+3. Data Analysis
+
+Comments in Python:
+For Single line Comment we used a #
+Eg: 
+#Comment
+for Multiple line Comment we used a ''' Comments ''' 
+Eg: 
+'''comment''' 
+
+Modules: A module is file which contain a code written by someone else we import that code in our programs
+type of modules: 
+built in modules: Pre install in the python
+External modules: this is we have to install. eg: flask, Django, opencv, etc
+
+Pip: pip is a Package manager in Python
+pip is used for install new libariry in python
+Eg: pip install Flask
+
