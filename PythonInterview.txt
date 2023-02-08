@@ -1,0 +1,15 @@
+What is Python
+Python is a high-level, interpreted, object oriented programming and general-purpose programming language.
+python supports objects, modules, threads, exception-handling, and automatic memory management which help 
+in modelling real-world problems and building applications to solve these problems
+
+What is interpeter language.
+An Interpreted language executes its statements line by line.
+eg of interpeter language: Python, Javascript, R, PHP, and Ruby.
+
+what is pip in Python.
+Pip is a package-management system written in Python and is used to install and manage software packages
+
+What is Pass Keyword in Python.
+The pass keyword represents a null operation
+Pass is used for the purpose of filling up empty block of code which may execute at the run time.

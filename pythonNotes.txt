@@ -26,3 +26,9 @@ Pip: pip is a Package manager in Python
 pip is used for install new libariry in python
 Eg: pip install Flask
 
+String are written in 3 way in python
+1. single quotes eg: name = 'hello'
+2. double quotes eg: name = "hello"
+3. triple quotes eg: name = '''hello'''
+
+
